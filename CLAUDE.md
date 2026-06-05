@@ -13,7 +13,7 @@ Sitio de portafolio personal estático en HTML y CSS puro. Sin frameworks, sin l
 2. **Hero** — nombre, rol y CTA; animación fade-up con `@keyframes`
 3. **Sobre mí** — texto descriptivo + chips de habilidades
 4. **Proyectos** — grid de tarjetas con hover; tarjeta 1 es "Control de Horas" (real), tarjetas 2 y 3 son placeholder
-5. **Contacto** — links a GitHub (`https://github.com/digitalnexoweb`) y email
+5. **Contacto** — links a GitHub (`https://github.com/agusberardi`) y email
 6. **Footer** — línea de crédito
 
 ## CSS
